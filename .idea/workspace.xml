@@ -1,11 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc4961f1-1206-4aea-b555-0d676636650a" name="Changes" comment="" />
+    <list default="true" id="dc4961f1-1206-4aea-b555-0d676636650a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgatatasok/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgatatasok/BankiSzolgaltatas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgatatasok/HitelSzamla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgatatasok/Kartya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgatatasok/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgatatasok/MegtakaritasiSzamla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgatatasok/Szamla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgatatasok/Tulajdonos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2G7xW8seQp3JM1p8uylOKLo4PVq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,5 +52,16 @@
       <updated>1665753458308</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
